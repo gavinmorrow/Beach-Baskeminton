@@ -24,4 +24,4 @@ This two-player sport involves using badminton rackets to attempt to put a minia
 3. Basketball hoop with backboard (full size) (1)
 
 
-![The Beach Baskeminton Logo](https://github.com/gavinmorrow/Beach-Baskeminton/Beach-Baskeminton.png)
+![The Beach Baskeminton Logo](./Beach-Baskeminton.png)
