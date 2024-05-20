@@ -17,7 +17,7 @@ It was created Monday, May 20, 2024, at 12:50 pm.
 This two-player sport involves using badminton rackets to attempt to put a miniature beach ball into a basketball hoop. It is typically played in an indoor gym, and professionals will have a referee, ensuring that the rules of game play are followed.
 
 
-# Required Equipment
+## Required Equipment
 
 1. Badminton rackets (2)
 2. Standard 8-inch beach ball (1)
